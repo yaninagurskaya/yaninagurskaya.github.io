@@ -1,0 +1,14 @@
+.box {
+	background-color: black;
+	height: 100px;
+	width: 100%;
+	position: relative;
+	}
+a {
+	display: inline-block;
+	padding-left: 50px;
+	padding-top: 50px;
+	color: white;
+	text-transform: uppercase;
+
+}
