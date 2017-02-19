@@ -1,5 +1,6 @@
 .box {
 	background-color: black;
+	position:fixed;
 	height: 100px;
 	width: 100%;
 	position: relative;
